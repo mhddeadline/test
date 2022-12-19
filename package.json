@@ -3,6 +3,6 @@
   "version": "1",
   "license": "MIT",
   "scripts": {
-    "build": "echo Done"
+    "build": "node test.js"
   }
 }
